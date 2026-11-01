@@ -2,7 +2,7 @@
 
 基于 nxnative 的 Switch → iOS 工作流 Skill，覆盖游戏构建、LiveContainer 宿主准备、SideStore 续签、JIT-less 和设备内导入。茶杯头 1.3.7 的整体链路已由用户确认跑通；具体版本和验证范围见 [已验证基线](nxnative-workflow/references/validated-baseline.md)。
 
-完整操作见 [端到端流程与验收](nxnative-workflow/references/runbook.md)；讲解与录制见 [10–12 分钟口播、分镜与剪辑脚本](nxnative-workflow/references/video-tutorial.md)。当前视频交付为脚本，尚未生成视频文件。
+完整操作见 [端到端流程与验收](nxnative-workflow/references/runbook.md)
 
 ## 克隆与使用
 
