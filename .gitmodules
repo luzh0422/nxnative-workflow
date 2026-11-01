@@ -1,0 +1,6 @@
+[submodule "nxnative"]
+	path = nxnative
+	url = https://github.com/seedds/nxnative
+[submodule "LiveContainer"]
+	path = LiveContainer
+	url = git@github.com:luzh0422/LiveContainer.git

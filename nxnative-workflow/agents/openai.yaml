@@ -1,0 +1,4 @@
+interface:
+  display_name: "nxnative-workflow"
+  short_description: "Port Switch games to iOS with nxnative, step by step"
+  default_prompt: "使用 $nxnative-workflow 继续当前游戏的 Switch 到 iOS 移植，完成下一步验证并更新已确认的流程。"

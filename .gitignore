@@ -1,0 +1,7 @@
+.DS_Store
+*.keys
+*.keys.*
+/games/
+/LCRebuild/build/
+*.ipa
+/LCRebuild/SaveSync-source.patch
